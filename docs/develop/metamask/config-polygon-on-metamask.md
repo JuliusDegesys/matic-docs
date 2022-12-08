@@ -20,6 +20,10 @@ There are two ways to do it:
 1. [Using Polygonscan](/develop/metamask/config-polygon-on-metamask.md#polygon-scan)
 2. [Add the Polygon network manually](/develop/metamask/config-polygon-on-metamask.md#add-the-polygon-network-manually)
 
+:::tip
+Find a tip at the end of this article on how to easily add **Polygon mainnet** to Metamask.
+:::
+
 ### Using Polygonscan
 
 :::note
@@ -123,3 +127,33 @@ Once you’ve added the information click on Save. You will be directly switched
 </Tabs>
 
 **You have successfully added Polygon Network to your Metamask!**
+
+:::tip Easy way to add Polygon mainnet
+If you just need to add Polygon mainnet, you can follow these steps:
+
+1. On Metamask, select the Network tab: 
+<div align="center">
+<img src={useBaseUrl("img/metamask/add-polygon-mainnet.png")} width="400"/>
+</div>
+
+2. Click on **Add Network**:
+<div align="center">
+<img src={useBaseUrl("img/metamask/add-polygon-mainnet-2.png")} width="400" />
+</div>
+
+3.  Find Polygon mainnet on the list of available networks:
+<div align="center">
+<img src={useBaseUrl("img/metamask/add-polygon-mainnet-3.png")} width="800" />
+</div>
+
+4. Approve the network addition:
+<div align="center">
+<img src={useBaseUrl("img/metamask/add-polygon-mainnet-4.png")} width="400" />
+</div>
+
+Now you may see the Polygon mainnet on the Networks tab:
+<div align="center">
+<img src={useBaseUrl("img/metamask/add-polygon-mainnet-5.png")} width="400" />
+</div>
+
+:::
