@@ -56,6 +56,7 @@ Here are some links that might be useful for new Web3 developers and anyone who 
 - [Geth Docs](https://geth.ethereum.org/)
 - [Remix Docs](https://remix.run/docs/en/v1)
 - [OpenZeppelin Docs](https://docs.openzeppelin.com/)
+- [Cloudflare Docs](https://developers.cloudflare.com/web3/polygon-gateway/)
 
 ## Useful Tutorials
 
