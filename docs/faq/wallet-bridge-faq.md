@@ -225,6 +225,12 @@ What you shouldn’t do:
 
 The gas limit is estimated and set by the application according to certain requirements of the function being called in the contract. This should not be edited. Only the gas price can be changed in order to increase or decrease the transaction fees.
 
+## How to speed up the transactions?
+You can do so by increasing the gas fees. Here's a link explaining how to do it on Metamask: https://metamask.zendesk.com/hc/en-us/articles/360015489251-How-to-Speed-Up-or-Cancel-a-Pending-Transaction. 
+
+## How much MATIC token is enough for the gas fee?
+Users need to have a minimum of 0.01 MATIC in the Polygon mainnet.
+
 ## Where do I raise a support ticket?
 If you need help from our specialists, please send us a message at https://support.polygon.technology/support/home.
 
@@ -238,20 +244,9 @@ However, if you are using any external service that is not owned by Polygon, we 
 
 If you have an issue with your withdrawal transaction being stuck, Polygon offers the withdraw bridge with https://polygon-withdraw.matic.network/ to help get you off the ground if you have your burn hash. With this tool, you're quickly onboarded and the issue will be resolved. Other questions concerning your transaction with OpenSea and other dApps will have to be handled by the application's team.
 
-
-## Where can I get MATIC tokens directly?
-
-So MATIC tokens can be bought from any centralized ([Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/), et.al) or Decentralized ([Uniswap](https://uniswap.org/), [QuickSwap](https://quickswap.exchange/#/swap)) exchange. You may also research and try some on-ramps like [Transak](https://transak.com/), [Ramp](https://ramp.network/).
-The purpose for your purchase of MATIC coins should also determine where you'll buy them from and the network. It is advisable to have MATIC on the Ethereum mainnet if your intention is either staking or delegation. If your intent is a transaction on the Polygon mainnet, you should hold and transact with MATIC on the Polygon mainnet.
-
-
 ## I have been scammed. How will I retrieve my tokens?
 
 Unfortunately, there is no recovery process for lost coins. We ask that before you make a transaction, you go on to check and double-check before starting and completing it. Please note that the Polygon network and our official handles do not engage in any giveaway posts or token doubling and we will never approach you on behalf of the organization. Please disregard all attempts as they're most likely scams. All our communications are through our official handles.
-
-## Ethereum has Goerli as its test Network. Does Polygon Network have a Test Network too?
-
-As the Ethereum Network has Goerli as its test network, the Polygon Mainnet has Mumbai. All transactions on this test network will be indexed on the Mumbai Explorer.
 
 ## There are some unauthorized transactions in my wallet. Is my wallet hacked?
 
@@ -259,25 +254,33 @@ Unfortunately, the network cannot revert unwanted transactions.
 It is always important to be careful with your private keys and **never share them with anyone**.
 If you still have some remaining funds, transfer them immediately to a new wallet.
 
-## How can I get MATIC tokens to pay for gas fees?
+## Ethereum has Goerli as its test Network. Does Polygon Network have a Test Network too?
 
-We provide a [Gas Swap](https://wallet.polygon.technology/gas-swap/) service that will help you with that. You choose an amount of MATIC you need to complete your transaction and you can swap it for other tokens such as Ether or USDT. It’s worth noting that this is a **gas-less transaction**.
+As the Ethereum Network has Goerli as its test network, the Polygon Mainnet has Mumbai. All transactions on this test network will be indexed on the Mumbai Explorer.
 
 ## The Token Swap is too slow.
 
 If you are trying to swap tokens and it is taking too long, you could try the same transaction on a different browser. If that doesn’t work and you’re facing an error, please send a screenshot to our Support team.
 
-## Which tokens can be used to swap for gas?
-Only these Tokens are supported for ‘Swap for Gas’: ETH, USDC, USDT, DAI, AAVE, LINK, WBTC, UNI, GHST, TEL, EMON, COMBO.
-
 ## Which tokens are charged as the gas fees for token swap?
 Only MATIC.
 
-## How much MATIC token is enough for the gas fee?
-Users need to have a minimum of 0.01 MATIC in the Polygon mainnet.
+## Which tokens can be used to swap for gas?
+Only these Tokens are supported for ‘Swap for Gas’: ETH, USDC, USDT, DAI, AAVE, LINK, WBTC, UNI, GHST, TEL, EMON, COMBO.
 
 ## How to get ETH tokens?
 To acquire ETH tokens, you can either trade them for another token or fiat money on an exchange, buy them on an on-ramp (or on Metamask) or even swap other tokens for ETH using [Polygon’s token swap feature](https://wallet.polygon.technology/polygon/token-swap).
 
-## How to speed up the transaction?
-You can do so by increasing the gas fees. Here's a link explaining how to do it on Metamask: https://metamask.zendesk.com/hc/en-us/articles/360015489251-How-to-Speed-Up-or-Cancel-a-Pending-Transaction. 
+## How can I get MATIC tokens to pay for gas fees?
+
+We provide a [Gas Swap](https://wallet.polygon.technology/gas-swap/) service that will help you with that. You choose an amount of MATIC you need to complete your transaction and you can swap it for other tokens such as Ether or USDT. It’s worth noting that this is a **gas-less transaction**.
+
+## Where can I get MATIC tokens directly?
+
+So MATIC tokens can be bought from any centralized ([Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/), et.al) or Decentralized ([Uniswap](https://uniswap.org/), [QuickSwap](https://quickswap.exchange/#/swap)) exchange. You may also research and try some on-ramps like [Transak](https://transak.com/), [Ramp](https://ramp.network/).
+The purpose for your purchase of MATIC coins should also determine where you'll buy them from and the network. It is advisable to have MATIC on the Ethereum mainnet if your intention is either staking or delegation. If your intent is a transaction on the Polygon mainnet, you should hold and transact with MATIC on the Polygon mainnet.
+
+
+
+
+
