@@ -95,7 +95,8 @@ module.exports = {
             type: "generated-index",
           },
           items: [
-            "develop/wallets/polygon-web-wallet/web-wallet-v3-guide"
+            "develop/wallets/polygon-web-wallet/web-wallet-v3-guide",
+            "faq/adding-a-custom-token"
           ],
         },
         {
@@ -1148,14 +1149,7 @@ module.exports = {
     "maintain/delegate/delegator-faq",
     "maintain/validate/faq/validator-faq",
     "faq/staking-faq",
-    {
-      type: "category",
-      label: "Wallet FAQs",
-      link: {
-        type: "generated-index",
-      },
-      items: ["faq/wallet-bridge-faq", "faq/adding-a-custom-token"],
-    },
+    "faq/wallet-bridge-faq",
     "faq/consensys-framework",
     "faq/widget-faq",
   ],
