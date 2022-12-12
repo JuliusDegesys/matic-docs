@@ -13,9 +13,9 @@ image: https://wiki.polygon.technology/img/polygon-wiki.png
 
 ## How can I reserve a Validator spot?
 
-If we have a vacant validator slot, anyone with any amount of stake can become a validator in the system. There will be validator auctions organized periodically (days mostly), wherein anyone can replace any current validator by proposing higher stake. So, in short, it is an open system where we cannot reserve places for anyone.
+We currently manage validator evaluation through communications / interview before we onboard a validator into the Polygon network. We are also working on building an automated application and admission process, inclusive of questionnaire, scoring logic, and ranking to streamline the application process.
 
-In any case, there is always the possibility of stake delegation with the current validator set. Anyone can participate in the process with this mechanism and earn rewards as long as the respective validator is honest and online.
+Once complete, this process of validator admission will be passed to the community for approval via governance, and subsequently implemented if agreed upon.
 
 ## What are the different states a Validator can be in?
 

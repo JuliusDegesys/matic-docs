@@ -47,7 +47,7 @@ This allows developers or network maintainers to test configurations and experim
 | Gas Station                        | [Mumbai Gas Station](https://gasstation-mumbai.matic.today/v2) (learn more [here](https://docs.polygon.technology/docs/develop/tools/polygon-gas-station/))                                      |
 | RPC Endpoint                       | [https://rpc-mumbai.matic.today](https://rpc-mumbai.matic.today)         |
 | Node Endpoint                      | [wss://rpc-mumbai.matic.today](wss://rpc-mumbai.matic.today)             |
-| Heimdall API                       | [https://heimdall.api.matic.today](https://heimdall.api.matic.today)     |
+| Heimdall API                       | [https://heimdall-api-testnet.polygon.technology](https://heimdall-api-testnet.polygon.technology)     |
 | Block Explorer                     | [https://mumbai.polygonscan.com/](https://mumbai.polygonscan.com/)       |
 
 :::note More details 
@@ -73,7 +73,7 @@ The native token of the Polygon PoS is MATIC and is used for gas.
 | Gas Station                        | [PolygonScan Gas Tracker (**recommended**)](https://polygonscan.com/gastracker) or [Matic Network Gas Station](https://gasstation-mainnet.matic.network/v2) (learn more [here](https://docs.polygon.technology/docs/develop/tools/polygon-gas-station/))                                                                       |
 | RPC Endpoint                       | [https://polygon-rpc.com/](https://polygon-rpc.com/)                     | 
 | Node Endpoint                      | [wss://rpc-mainnet.matic.network](wss://rpc-mainnet.matic.network)       |
-| Heimdall API                       | [https://heimdall.api.matic.network](https://heimdall.api.matic.network) |
+| Heimdall API                       | [https://heimdall-api.polygon.technology](https://heimdall-api.polygon.technology) |
 | Block Explorer                     | [https://polygonscan.com/](https://polygonscan.com/)       |
 
 :::note More details 
